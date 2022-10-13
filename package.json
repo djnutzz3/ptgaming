@@ -1,0 +1,17 @@
+{
+  "name": "ptgaming",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ptgaming สมัครสล็อตเว็บตรง เว็บที่ดีที่สุด 2022",
+  "keywords": [
+    "ptgame168 สมัครสล็อตเว็บตรง",
+    "ptgame168 สล็อตเว็บตรง",
+    "ptgame168 สมัครสล็อต",
+    "ptgame168 สล็อตเว็บตรงไม่ผ่านเอเย่นต์"
+  ],
+  "repository": "https://github.com/djnutzz3/ptgaming",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
